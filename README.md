@@ -4,3 +4,6 @@
 
 ## Deskripsi Toko
 Charger Store HP Bali adalah toko yang menjual charger HP standar dan fast charging
+## Tantangan Yang Dibuat
+- Produk termurah
+- Rata rata harga
